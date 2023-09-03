@@ -16,6 +16,7 @@ www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-sh
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 
 !YouTube Music
 music.youtube.com##ytmusic-guide-section-renderer.ytmusic-guide-renderer.style-scope:nth-of-type(2)
