@@ -22,7 +22,7 @@ A uBlock Origin script to remove pointless and UI cluttering "features" from You
 
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
-`NoThanks.IPreferVideos` Removes the Live, Releases and Podcasts tab from YouTube Channels
+`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
