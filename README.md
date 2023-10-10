@@ -36,4 +36,6 @@ Warning: This filter acts differently on different channels for some reason, In 
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
 
+`NoEmailLeak` Useful for livestreamers who are worried about clicking on something and accidentally leaking their email to the internet
+
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
