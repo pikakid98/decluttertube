@@ -1,4 +1,4 @@
-! Title: Pika's De-ClutterTube"
+! Title: Pika's De-ClutterTube
 ! This script is designed to remove pointless clutter on YouTube that just doesn't need to exist
 ! https://git-pikakid98.github.io/other/decluttertube
 
