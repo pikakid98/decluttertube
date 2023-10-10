@@ -30,4 +30,6 @@ A uBlock Origin script to remove pointless and UI cluttering "features" from You
 
 `IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio
 
+`No Dollar YouTube` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
+
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
