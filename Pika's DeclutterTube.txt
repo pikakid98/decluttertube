@@ -19,6 +19,7 @@ www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-rendere
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
 
 !YouTube Music
 music.youtube.com##ytmusic-guide-section-renderer.ytmusic-guide-renderer.style-scope:nth-of-type(2)
