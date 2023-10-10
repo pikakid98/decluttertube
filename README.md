@@ -28,4 +28,6 @@ A uBlock Origin script to remove pointless and UI cluttering "features" from You
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio
+
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
