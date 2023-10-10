@@ -1,0 +1,14 @@
+! Title: Pika's De-ClutterTube "Give 'em a shot" Filter
+! Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.ytd-video-meta-block.style-scope.inline-metadata-item
+www.youtube.com##.ytd-rich-grid-media.style-scope.video-badge
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge > yt-icon.ytd-badge-supported-renderer.style-scope > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified-artist.badge > yt-icon.ytd-badge-supported-renderer.style-scope > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com##span.yt-formatted-string.style-scope.bold:nth-of-type(1)
+www.youtube.com##span.yt-formatted-string.style-scope.bold:nth-of-type(2)
+www.youtube.com###segmented-like-button > .ytd-segmented-like-dislike-button-renderer.style-scope > yt-button-shape
+www.youtube.com###owner-sub-count
+www.youtube.com###subscriber-count
+www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
