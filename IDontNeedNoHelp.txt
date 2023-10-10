@@ -1,0 +1,9 @@
+! Title: Pika's De-ClutterTube "I Don't Need No Help" Filter
+! Removes the help and feedback options from YouTube and YouTube Studio
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+studio.youtube.com###menu-paper-icon-item-8
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+studio.youtube.com###help-widget > .ytcp-header.style-scope
+studio.youtube.com###send-feedback-item
