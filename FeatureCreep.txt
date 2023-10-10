@@ -6,3 +6,5 @@ www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-sh
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 studio.youtube.com###dashboard-actions
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
