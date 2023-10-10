@@ -1,0 +1,7 @@
+! Title: Pika's De-ClutterTube "DON'T hit the bell" Filter
+! Removes all of the "Bell notifcation options" from the subscribe dropdown
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.iron-selected.ytd-menu-popup-renderer.style-scope > .ytd-menu-service-item-renderer.style-scope
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(2) > .ytd-menu-service-item-renderer.style-scope
+www.youtube.com##ytd-menu-service-item-renderer.ytd-menu-popup-renderer.style-scope:nth-of-type(3) > .ytd-menu-service-item-renderer.style-scope

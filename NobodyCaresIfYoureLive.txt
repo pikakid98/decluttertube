@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Nobody Cares If You're Live" Filter
+! Removes "Live badge" from the subscription section
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-entry-badge

@@ -1,0 +1,12 @@
+! Title: Pika's De-ClutterTube "I Just Wanna Jam" Filter
+! Removes pointless fluff from YouTube Music
+! https://git-pikakid98.github.io/other/decluttertube
+
+music.youtube.com##ytmusic-guide-section-renderer.ytmusic-guide-renderer.style-scope:nth-of-type(2)
+music.youtube.com###sections
+music.youtube.com###guide-content > .ytmusic-app.style-scope
+music.youtube.com###guide-content
+music.youtube.com###contentContainer > .ytmusic-app.style-scope
+music.youtube.com###guide
+music.youtube.com###mini-guide-background
+music.youtube.com###right-content > .ytmusic-nav-bar.style-scope.cast-button > .ytmusic-cast-button.style-scope.cast-button

@@ -1,0 +1,6 @@
+! Title: Pika's De-ClutterTube "Feature Creep" Filter
+! Removes completely meaningless fluff that doesn't need to exist such as the voice search, Country code and upload button on regular YouTube
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope

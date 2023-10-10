@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Minor Inconvenience" Filter
+! Removes the sidebar preview on the homepage
+! https://git-pikakid98.github.io/other/decluttertube
+
+##ytd-mini-guide-renderer.ytd-app.style-scope

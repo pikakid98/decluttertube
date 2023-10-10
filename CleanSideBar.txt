@@ -1,0 +1,9 @@
+! Title: Pika's De-ClutterTube "Clean Side Bar" Filter
+! Cleans pointless categories from the YouTube sidebar
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-secondary
+www.youtube.com###guide-links-primary
+www.youtube.com###copyright
