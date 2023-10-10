@@ -9,6 +9,8 @@ A uBlock Origin script to remove pointless and UI cluttering "features" from You
 `CleanSideBar` Cleans pointless categories from the YouTube sidebar
 
 `DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown
+\
+Warning: This filter currently causes playlist features to go missing. I'm finding a way to fix this
 
 `FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown
 
@@ -23,6 +25,8 @@ A uBlock Origin script to remove pointless and UI cluttering "features" from You
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
 `NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels
+\
+Warning: This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
