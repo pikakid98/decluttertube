@@ -1,5 +1,6 @@
 # DeclutterTube
 A uBlock Origin script to remove pointless and UI cluttering "features" from YouTube, YouTube Music and YouTube Studio
+\
 ![dct](https://github.com/Git-Pikakid98/decluttertube/assets/12392651/ed52802d-8859-4fa1-a995-de7a470cbe4a)
 
 ## How do I install this?
