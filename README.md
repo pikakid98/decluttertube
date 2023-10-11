@@ -1,4 +1,4 @@
-# decluttertube
+# DeclutterTube
 A uBlock Origin script to remove pointless and UI cluttering "features" from YouTube, YouTube Music and YouTube Studio
 
 ## What even are these filters?
