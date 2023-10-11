@@ -6,3 +6,4 @@ www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > yt-button-shape
 www.youtube.com###sponsor-button
 www.youtube.com##.no-transition.ytd-sponsor-comment-badge-renderer.style-scope
 www.youtube.com##.ytp-paid-content-overlay-link
+www.youtube.com##ytd-compact-link-renderer.ytd-settings-sidebar-renderer.style-scope:nth-of-type(6)
