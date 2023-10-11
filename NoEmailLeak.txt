@@ -8,3 +8,4 @@ www.youtube.com##yt-formatted-string#text.ytd-page-introduction-renderer.style-s
 www.youtube.com##span.yt-formatted-string.style-scope.bold:nth-of-type(4)
 studio.youtube.com###container > div.ytd-google-account-header-renderer.style-scope:nth-of-type(2)
 studio.youtube.com###header > .ytd-account-item-section-renderer.style-scope
+www.youtube.com###header > .ytd-account-item-section-renderer.style-scope
