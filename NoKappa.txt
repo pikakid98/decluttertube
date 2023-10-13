@@ -1,0 +1,7 @@
+! Title: Pika's De-ClutterTube "NoKappa" Filter
+! Hides livestream chat and chat replays for stream VODs and premieres
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com###chatframe
+www.youtube.com###show-hide-button > .ytd-live-chat-frame.style-scope
+www.youtube.com###chat
