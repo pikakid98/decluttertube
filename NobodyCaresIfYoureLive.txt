@@ -3,3 +3,4 @@
 ! https://git-pikakid98.github.io/other/decluttertube
 
 www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-entry-badge
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-live-now-alternate.badge
