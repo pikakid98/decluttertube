@@ -10,3 +10,5 @@ www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured
 www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
 www.youtube.com###content-wrapper
 www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+studio.youtube.com##ytcp-metadata-suggestion.ytcp-video-title.style-scope > .ytcp-metadata-suggestion.style-scope.container
+studio.youtube.com###suggestions-container > .ytcp-metadata-suggestions-container.style-scope.container
