@@ -1,0 +1,21 @@
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/30dollarstudiohaircut.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/CategorizeThis.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/CleanSideBar.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/DONTHitTheBell.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/FeatureCreep.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/IJustWannaJam.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/MinorInconvenience.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/MyCountryisNunyaBizniss.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoMoreShorts.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoThanks.IPreferVideos.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NobodyCaresIfYoureLive.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/WhatDoAnyOfTheseDo.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/GiveEmAShot.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/IDontNeedNoHelp.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoDollarYT.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoEmailLeak.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoKappa.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoShortsTitleSuggestions.txt
+
+
+Copy the above link(s) into uBlock Origin's "Import" section. If you can't find the import section, look up "how to add custom filter lists to uBlock Origin"
