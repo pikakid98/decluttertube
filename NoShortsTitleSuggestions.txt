@@ -1,4 +1,4 @@
-! Title: Pika's De-ClutterTube "Categorize THIS!" Filter
+! Title: Pika's De-ClutterTube "No Shorts Title Suggestions" Filter
 ! Removes the hashtag suggestions from the title bar in YouTube Studio
 ! https://git-pikakid98.github.io/other/decluttertube
 
