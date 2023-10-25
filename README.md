@@ -30,9 +30,9 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `CleanSideBar` Cleans pointless categories from the YouTube sidebar
 
-`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#1)
+`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *1](https://github.com/Git-Pikakid98/decluttertube#1)
 
-`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#2)
+`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *2](https://github.com/Git-Pikakid98/decluttertube#2)
 
 `IJustWannaJam` Removes pointless fluff from YouTube Music
 
@@ -44,13 +44,13 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
-`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#3)
+`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels [[Known to cause issues] *3](https://github.com/Git-Pikakid98/decluttertube#3)
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
-`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#4)
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *4](https://github.com/Git-Pikakid98/decluttertube#4)
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
 
