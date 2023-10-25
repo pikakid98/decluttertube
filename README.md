@@ -30,9 +30,9 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `CleanSideBar` Cleans pointless categories from the YouTube sidebar
 
-`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#1-this-filter-currently-causes-playlist-features-to-go-missing-im-finding-a-way-to-fix-this)
+`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#1)
 
-`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#2-a-combination-of-this-and-idontneednohelp-on-the-new-ui-which-isnt-available-at-the-moment-for-certain-accounts-causes-important-features-to-vanish)
+`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#2)
 
 `IJustWannaJam` Removes pointless fluff from YouTube Music
 
@@ -44,13 +44,13 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
-`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#3-this-filter-acts-differently-on-different-channels-for-some-reason-in-some-cases-it-hides-playlists-and-the-about-section-im-currently-trying-to-find-a-way-around-this)
+`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#3)
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
-`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#4-a-combination-of-this-and-featurecreep-on-the-new-ui-which-isnt-available-at-the-moment-for-certain-accounts-causes-important-features-to-vanish)
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues]](https://github.com/Git-Pikakid98/decluttertube#4)
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
 
@@ -63,7 +63,14 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
-###### `*1` This filter currently causes playlist features to go missing. I'm finding a way to fix this
-###### `*2` A combination of this and `IDontNeedNoHelp` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
-###### `*3` This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
-###### `*4` A combination of this and `FeatureCreep` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
+###### `*1`
+This filter currently causes playlist features to go missing. I'm finding a way to fix this
+
+###### `*2`
+A combination of this and `IDontNeedNoHelp` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
+
+###### `*3`
+This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
+
+###### `*4`
+A combination of this and `FeatureCreep` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
