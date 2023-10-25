@@ -30,11 +30,11 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `CleanSideBar` Cleans pointless categories from the YouTube sidebar
 
-`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown
-\
-Warning: This filter currently causes playlist features to go missing. I'm finding a way to fix this
+`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown *1
+###### *1 Warning: This filter currently causes playlist features to go missing. I'm finding a way to fix this
 
-`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown
+`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown *2
+###### *2 Warning: A combination of this and `IDontNeedNoHelp` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
 
 `IJustWannaJam` Removes pointless fluff from YouTube Music
 
@@ -46,15 +46,15 @@ Warning: This filter currently causes playlist features to go missing. I'm findi
 
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
-`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels
-\
-Warning: This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
+`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels *3
+###### *3 Warning: This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
-`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio *4
+###### *4 Warning: A combination of this and `FeatureCreep` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
 
