@@ -1,0 +1,16 @@
+! Title: Pika's De-ClutterTube "Denerd Panel" Filter
+! Removes all debugging features from YouTube's right click menu
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##a.ytp-menuitem > .ytp-menuitem-label
+www.youtube.com##a.ytp-menuitem > .ytp-menuitem-icon > svg
+www.youtube.com##a.ytp-menuitem > .ytp-menuitem-content
+www.youtube.com##div.ytp-menuitem:nth-of-type(5) > .ytp-menuitem-label
+www.youtube.com##div.ytp-menuitem:nth-of-type(5) > .ytp-menuitem-icon > svg > path
+www.youtube.com##div.ytp-menuitem:nth-of-type(6) > .ytp-menuitem-label
+www.youtube.com##div.ytp-menuitem:nth-of-type(6) > .ytp-menuitem-icon > svg
+www.youtube.com##div.ytp-menuitem:nth-of-type(4) > .ytp-menuitem-label
+www.youtube.com##div.ytp-menuitem:nth-of-type(4) > .ytp-menuitem-icon > svg
+www.youtube.com##div.ytp-menuitem:nth-of-type(4) > .ytp-menuitem-content
+www.youtube.com##div.ytp-menuitem:nth-of-type(5) > .ytp-menuitem-icon
+www.youtube.com##div.ytp-menuitem:nth-of-type(6) > .ytp-menuitem-content

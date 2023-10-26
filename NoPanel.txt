@@ -1,0 +1,6 @@
+! Title: Pika's De-ClutterTube "Un Yous Your Tube" Filter
+! Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.ytp-contextmenu.ytp-popup > .ytp-panel > .ytp-panel-menu
+www.youtube.com##.ytp-contextmenu.ytp-popup > .ytp-panel
