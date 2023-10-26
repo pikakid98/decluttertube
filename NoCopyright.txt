@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "No Copyright" Filter
+! Removes the copyrighted music card from the description
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
