@@ -60,6 +60,12 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoShortsTitleSuggestions` Removes the hashtag suggestions from the title bar in YouTube Studio
 
+`UnYousYourTube` Removes the "You" section on the left-hand sidebar
+
+`HeartOfTheCards` Disables cards on the top right of the screen in videos
+
+`NoLogo` Removes the YouTube logo from the website. If for whatever reason you want that
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
