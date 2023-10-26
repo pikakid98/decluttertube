@@ -66,6 +66,10 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoLogo` Removes the YouTube logo from the website. If for whatever reason you want that
 
+`DenerdPanel` Removes all debugging features from YouTube's right click menu
+
+`NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
