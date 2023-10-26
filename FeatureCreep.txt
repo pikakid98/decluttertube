@@ -5,4 +5,4 @@
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 studio.youtube.com###dashboard-actions
-www.youtube.com###items > .ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
