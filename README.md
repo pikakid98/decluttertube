@@ -70,6 +70,8 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant
 
+`NoCopyright` Removes the copyrighted music card from the description (No, This filter does NOT make you exempt from copyright infringement)
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
