@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoShortsTitle
 https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/UnYousYourTube.txt
 https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/HeartOfTheCards.txt
 https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoLogo.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/DenerdPanel.txt
+https://raw.githubusercontent.com/Git-Pikakid98/decluttertube/main/NoPanel.txt
 
 
 Copy the above link(s) into uBlock Origin's "Import" section. If you can't find the import section, look up "how to add custom filter lists to uBlock Origin"
