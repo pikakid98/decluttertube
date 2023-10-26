@@ -67,10 +67,10 @@ Please be aware that some of these filters may be broken or contain duplicate fi
 This filter currently causes playlist features to go missing. I'm finding a way to fix this
 
 ###### `*2`
-A combination of this and `IDontNeedNoHelp` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
+A combination of this and `IDontNeedNoHelp` on the new UI causes important features to vanish
 
 ###### `*3`
 This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
 
 ###### `*4`
-A combination of this and `FeatureCreep` on the new UI (Which isn't available at the moment for certain accounts) causes important features to vanish
+A combination of this and `FeatureCreep` on the new UI causes important features to vanish
