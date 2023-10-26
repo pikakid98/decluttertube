@@ -44,13 +44,13 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
 
-`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels [[Known to cause issues] *3](https://github.com/Git-Pikakid98/decluttertube#3)
+`NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels
 
 `WhatDoAnyOfTheseDo` Removes all of the pointless buttons on videos like share, the (now pointless) dislike button etc.
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
-`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *4](https://github.com/Git-Pikakid98/decluttertube#4)
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *3](https://github.com/Git-Pikakid98/decluttertube#3)
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
 
@@ -67,10 +67,7 @@ Please be aware that some of these filters may be broken or contain duplicate fi
 This filter currently causes playlist features to go missing. I'm finding a way to fix this
 
 ###### `*2`
-A combination of this and `IDontNeedNoHelp` on the new UI causes important features to vanish
-
-###### `*3`
 This filter acts differently on different channels for some reason, In some cases it hides Playlists and the About section. I'm currently trying to find a way around this
 
-###### `*4`
-A combination of this and `FeatureCreep` on the new UI causes important features to vanish
+###### `*3`
+Also removed the settings tab from the left-hand side bar (But there's another one in the account dropdown, So it isn't a problem)
