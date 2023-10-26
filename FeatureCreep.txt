@@ -4,5 +4,4 @@
 
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
-www.youtube.com###header
 studio.youtube.com###dashboard-actions
