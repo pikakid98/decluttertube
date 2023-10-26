@@ -2,11 +2,7 @@
 ! Removes completely meaningless fluff that doesn't need to exist such as the voice search, upload button on regular YouTube
 ! https://git-pikakid98.github.io/other/decluttertube
 
-www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+www.youtube.com###header
 studio.youtube.com###dashboard-actions
-www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
-www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
-www.youtube.com###content-wrapper
-www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
