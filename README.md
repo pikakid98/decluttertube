@@ -78,5 +78,5 @@ This filter acts differently on different channels for some reason, In some case
 ###### `*3`
 Also removed the settings tab from the left-hand side bar (But there's another one in the account dropdown, So it isn't a problem)
 
-###### '*4'
+###### `*4`
 One of these filters appears to break the cards. Not sure which one. Once I've figured it out, I'll update this section
