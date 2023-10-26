@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Un Yous Your Tube" Filter
+! Removes the "You" section on the left-hand sidebar
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-guide-collapsible-section-entry-renderer.ytd-guide-section-renderer.style-scope

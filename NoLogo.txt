@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "No Logo" Filter
+! Removes the YouTube logo from the website. If for whatever reason you want that
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
