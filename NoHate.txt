@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "No Hate" Filter
+! Removes the "Held For Review" tab in YouTube Studio
+! https://git-pikakid98.github.io/other/decluttertube
+
+studio.youtube.com##.ytcp-comments-section.style-scope.chips-container
