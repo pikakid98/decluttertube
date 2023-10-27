@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Play That One Again Johnny" Filter
+! Removes the progress bar from videos you've already watched
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-thumbnail-overlay-resume-playback-renderer.ytd-thumbnail.style-scope
