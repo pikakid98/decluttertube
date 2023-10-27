@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Radio?.. You're Joking Right?" Filter
+! Removes the "Radio" or "Mix" recommended playlist
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
