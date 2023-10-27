@@ -78,6 +78,8 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoAudioLib` Removes the Audio Library button from YouTube Studio (It's intended for copyright free music, But I've been claimed by music from it. So it's useless)
 
+`PlayThatOneAgainJohnny` Removes the progress bar from videos you've already watched
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
