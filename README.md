@@ -80,7 +80,7 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `PlayThatOneAgainJohnny` Removes the progress bar from videos you've already watched
 
-`RadioYoureJokingRight` Removes the "Radio" or "Mix" recommended playlist
+`RadioYoureJokingRight` Removes the "Radio" or "Mix" recommended playlist [[Known to cause issues] *5](https://github.com/Git-Pikakid98/decluttertube#5)
 
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
@@ -96,3 +96,6 @@ Also removed the settings tab from the left-hand side bar (But there's another o
 
 ###### `*4`
 One of these filters appears to break the cards. Not sure which one. Once I've figured it out, I'll update this section
+
+###### `*5`
+This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad
