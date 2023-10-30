@@ -82,6 +82,10 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `RadioYoureJokingRight` Removes the "Radio" or "Mix" recommended playlist [[Known to cause issues] *5](https://github.com/Git-Pikakid98/decluttertube#5)
 
+`IDontNeed2ChapterSections` Removes the large chapter option at the bottom of the description. This does NOT remove it from the ACTUAL (Manually typed by the Youtuber) chapters or the chapters on the progress bar
+
+`ReadingIsForNerds` Removes the transcript section from the description
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
