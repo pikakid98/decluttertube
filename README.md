@@ -66,9 +66,9 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoLogo` Removes the YouTube logo from the website. If for whatever reason you want that
 
-`DenerdPanel` Removes all debugging features from YouTube's right click menu
+`DenerdPanel` Removes all debugging features from YouTube's right click menu [[Known to cause issues] *6](https://github.com/Git-Pikakid98/decluttertube#6)
 
-`NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant
+`NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant [[Known to cause issues] *6](https://github.com/Git-Pikakid98/decluttertube#6)
 
 `NoCopyright` Removes the copyrighted music card from the description (No, This filter does NOT make you exempt from copyright infringement)
 
@@ -99,3 +99,6 @@ One of these filters appears to break the cards. Not sure which one. Once I've f
 
 ###### `*5`
 This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad
+
+###### `*6`
+Both deletes or removes options from the settings in the video player
