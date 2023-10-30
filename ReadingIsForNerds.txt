@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Reading Is For Nerds" Filter
+! Removes the transcript section from the description
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope

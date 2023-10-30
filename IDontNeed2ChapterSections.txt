@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "I Don't Need 2 Chapter Sections" Filter
+! Removes the large chapter option at the bottom of the description. This does NOT remove it from the ACTUAL (Manually typed by the Youtuber) chapters or the chapters on the progress bar
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-structured-description-content-renderer.style-scope
