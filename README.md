@@ -101,4 +101,4 @@ One of these filters appears to break the cards. Not sure which one. Once I've f
 This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad
 
 ###### `*6`
-Both deletes or removes options from the settings in the video player
+Both deletes or removes options from the settings in the video player. It also removes any qualities under 480p. Currently trying to find a way to fix this
