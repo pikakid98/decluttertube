@@ -102,7 +102,7 @@ Also removed the settings tab from the left-hand side bar (But there's another o
 One of these filters appears to break the cards. Not sure which one. Once I've figured it out, I'll update this section
 
 ###### `*5`
-This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad
+This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad. Additionally, I can't figure out how to JUST remove the mix as it seems to keep coming back at random
 
 ###### `*6`
 Both deletes or removes options from the settings in the video player. It also removes any qualities under 480p as well as Playback Speed. Currently trying to find a way to fix this
