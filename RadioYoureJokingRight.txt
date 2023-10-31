@@ -4,3 +4,4 @@
 
 www.youtube.com##.use-ellipsis.ytd-item-section-renderer.style-scope > .ytd-compact-radio-renderer.style-scope
 www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope:nth-of-type(19)
+www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
