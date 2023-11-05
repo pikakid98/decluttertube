@@ -106,3 +106,6 @@ This removes an entire row from the main page and POTENTIALLY other issues. But 
 
 ###### `*6`
 Both deletes or removes options from the settings in the video player. It also removes any qualities under 480p as well as Playback Speed. Currently trying to find a way to fix this
+
+###### `*7`
+SOMETHING is causing the YouTube short URLs in description `ie the parts that say "www.example.com/page/exa..." which would redirect to "www.example.com/page/example"`
