@@ -1,5 +1,5 @@
 ! Title: Pika's De-ClutterTube "No Dollar YouTube" Filter
-! Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
+! Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work). Also removes fundraiser related content
 ! https://git-pikakid98.github.io/other/decluttertube
 
 www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > yt-button-shape
@@ -8,3 +8,6 @@ www.youtube.com##.no-transition.ytd-sponsor-comment-badge-renderer.style-scope
 www.youtube.com##.ytp-paid-content-overlay-link
 www.youtube.com##ytd-compact-link-renderer.ytd-settings-sidebar-renderer.style-scope:nth-of-type(6)
 www.youtube.com###paid-comment-chip
+www.youtube.com##ytd-badge-supported-renderer.ytd-watch-metadata.style-scope:nth-of-type(2)
+www.youtube.com###donation-shelf > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-ypc.badge
