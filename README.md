@@ -52,7 +52,7 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *3](https://github.com/Git-Pikakid98/decluttertube#3)
 
-`NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work)
+`NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work). Also removes fundraiser related content
 
 `NoEmailLeak` Useful for livestreamers who are worried about clicking on something and accidentally leaking their email to the internet
 
