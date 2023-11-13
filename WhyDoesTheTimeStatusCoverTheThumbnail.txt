@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Why does the time status cover the thumbnail?" Filter
+! Removes the time status (aka. How long the video is) from thumbnails to prevent covering important information
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com###time-status

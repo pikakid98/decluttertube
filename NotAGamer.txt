@@ -1,0 +1,5 @@
+! Title: Pika's De-ClutterTube "Not A Gamer" Filter
+! Removes the YouTube Gaming section on videos in the descriptions
+! https://git-pikakid98.github.io/other/decluttertube
+
+www.youtube.com##.ytd-metadata-row-container-renderer.style-scope > .ytd-rich-metadata-row-renderer.style-scope
