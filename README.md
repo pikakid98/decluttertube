@@ -86,6 +86,10 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `ReadingIsForNerds` Removes the transcript section from the description
 
+`NotAGamer` Removes the YouTube Gaming section on videos in the descriptions
+
+`WhyDoesTheTimeStatusCoverTheThumbnail` Removes the time status (aka. How long the video is) from thumbnails to prevent covering important information
+
 ## Known issues
 Please be aware that some of these filters may be broken or contain duplicate filters. I'll fix these as soon as I find them or they get reported
 
