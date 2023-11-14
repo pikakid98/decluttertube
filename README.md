@@ -103,10 +103,13 @@ This filter acts differently on different channels for some reason, In some case
 Also removed the settings tab from the left-hand side bar (But there's another one in the account dropdown, So it isn't a problem)
 
 ###### `*4`
-One of these filters appears to break the cards. Not sure which one. Once I've figured it out, I'll update this section
+Causes cards on the top right to become unclickable  `Cause is currently unknown`
 
 ###### `*5`
-This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad. Additionally, I can't figure out how to JUST remove the mix as it seems to keep coming back at random. Another issue is removing a few recent videos from every YouTube channel.. UGH!!
+This removes an entire row from the main page and POTENTIALLY other issues. But afaik, it isn't TOO bad. Additionally, I can't figure out how to JUST remove the mix as it seems to keep coming back at random. Another issue is removing a few recent videos from every YouTube channel.. UGH!! `Cause is currently unknown`
 
 ###### `*6`
 Both deletes or removes options from the settings in the video player. It also removes any qualities under 480p as well as Playback Speed. Currently trying to find a way to fix this
+
+###### `*7`
+Causes the "Channels" section on channels to be hidden `Cause is currently unknown`
