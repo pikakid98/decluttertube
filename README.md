@@ -112,4 +112,4 @@ This removes an entire row from the main page and POTENTIALLY other issues. But 
 Both deletes or removes options from the settings in the video player. It also removes any qualities under 480p as well as Playback Speed. Currently trying to find a way to fix this
 
 ###### `*7`
-Causes the "Channels" section on channels to be hidden `Cause is currently unknown`
+Causes the "Channels" section on channels to be hidden `Cause is currently unknown (However, this is potentially because Youtube is currently reworking their UI and only some accounts have gotten this update)`
