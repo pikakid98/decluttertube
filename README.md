@@ -42,7 +42,7 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NobodyCaresIfYoureLive` Removes "Live badge" from the subscription section
 
-`NoMoreShorts` Remove the annoying shorts tabs on the home menu and the recommended videos
+`NoMoreShorts` Removes the annoying shorts tabs on the home menu and the recommended videos and in descriptions of videos
 
 `NoThanks.IPreferVideos` Removes the Releases and Podcasts tab from YouTube Channels
 
