@@ -5,3 +5,4 @@
 studio.youtube.com##ytcd-card-column.ytcd-channel-dashboard.style-scope.column:nth-of-type(3)
 studio.youtube.com##.ytcd-channel-dashboard.style-scope.footer
 studio.youtube.com###content-list-promotions-tab > .tp-yt-paper-tab.style-scope.tab-content
+studio.youtube.com##.ytcp-feature-discovery-callout.style-scope.bottom
