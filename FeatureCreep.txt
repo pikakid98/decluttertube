@@ -7,3 +7,4 @@ www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-sh
 studio.youtube.com###dashboard-actions
 www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
 www.youtube.com##.yt-formatted-string.style-scope.bold.yt-simple-endpoint
+www.youtube.com##.YtDislikeButtonViewModelHost
