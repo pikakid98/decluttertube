@@ -2,4 +2,4 @@
 ! Removes the country code (Completely optional)
 ! https://git-pikakid98.github.io/other/decluttertube
 
-###country-code
+www.youtube.com###country-code
