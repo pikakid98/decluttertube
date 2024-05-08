@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "No Shorts Title Suggestions" Filter
 ! Removes the hashtag suggestions from the title bar in YouTube Studio
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 studio.youtube.com##ytcp-metadata-suggestion.ytcp-video-title.style-scope > .ytcp-metadata-suggestion.style-scope.container
 studio.youtube.com###suggestions-container > .ytcp-metadata-suggestions-container.style-scope.container

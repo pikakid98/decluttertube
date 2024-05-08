@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "Categorize THIS!" Filter
 ! Removes the categories from YouTube (This unfortunately also breaks the newest and oldest section on channels)
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
 www.youtube.com###header > .ytd-rich-grid-renderer.style-scope

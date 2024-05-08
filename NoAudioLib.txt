@@ -1,5 +1,5 @@
 ! Title: Pika's De-ClutterTube "No Audio Lib" Filter
 ! Removes the Audio Library button from YouTube Studio (It's intended for copyright free music, But I've been claimed by music from it. So it's useless)
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 studio.youtube.com###menu-paper-icon-item-8

@@ -1,5 +1,5 @@
 ! Title: Pika's De-ClutterTube "My Country is Nunya Bizniss" Filter
 ! Removes the country code (Completely optional)
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 www.youtube.com###country-code

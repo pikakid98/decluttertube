@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "Heart Of The Cards" Filter
 ! Disables cards on the top right of the screen in videos
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
 www.youtube.com##.ytp-cards-teaser-text

@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "No More Shorts" Filter
 ! Removes the annoying shorts tabs on the home menu and the recommended videos and in descriptions of videos
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)

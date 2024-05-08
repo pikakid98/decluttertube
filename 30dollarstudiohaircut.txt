@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "30 Dollar Studio Haircut" Filter
 ! DON'T YOU LECTURE ME WITH YOUR 30 DOLLAR HAIRCUT!! Removes pointless notifications from YouTube Studio
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 studio.youtube.com##ytcd-card-column.ytcd-channel-dashboard.style-scope.column:nth-of-type(3)
 studio.youtube.com##.ytcd-channel-dashboard.style-scope.footer

@@ -1,5 +1,5 @@
 ! Title: Pika's De-ClutterTube "I Only Want Comments" Filter
 ! Removes the mentions tab from YouTube Studio
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 studio.youtube.com###header > .ytcp-activity-section.style-scope

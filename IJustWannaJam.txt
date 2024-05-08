@@ -1,6 +1,6 @@
 ! Title: Pika's De-ClutterTube "I Just Wanna Jam" Filter
 ! Removes pointless fluff from YouTube Music
-! https://git-pikakid98.github.io/other/decluttertube
+! https://github.com/pikakid98/decluttertube
 
 music.youtube.com##ytmusic-guide-section-renderer.ytmusic-guide-renderer.style-scope:nth-of-type(2)
 music.youtube.com###sections
