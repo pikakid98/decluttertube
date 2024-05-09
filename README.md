@@ -1,7 +1,7 @@
 # DeclutterTube
 A collection of uBlock Origin filter lists to remove pointless and UI cluttering "features" from YouTube, YouTube Music and YouTube Studio
 \
-![dct](https://github.com/Git-Pikakid98/decluttertube/assets/12392651/ed52802d-8859-4fa1-a995-de7a470cbe4a)
+![dct](https://github.com/pikakid98/decluttertube/assets/12392651/ed52802d-8859-4fa1-a995-de7a470cbe4a)
 
 ## How do I install this?
 This is NOT a standalone program or extension. Downloading this alone will do NOTHING. You are REQUIRED to install uBlock Origin.
@@ -9,15 +9,15 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 - Left click the icon on your top bar (Pictured is Chromium but it's the same on Firefox)
 - Next click the gear icon
 \
-![image](https://github.com/Git-Pikakid98/decluttertube/assets/12392651/a013bb94-495c-459e-b2f1-143dcb1b630e)
+![image](https://github.com/pikakid98/decluttertube/assets/12392651/a013bb94-495c-459e-b2f1-143dcb1b630e)
 \
 - Click "Filter Lists"
 \
-![image](https://github.com/Git-Pikakid98/decluttertube/assets/12392651/692bd7aa-15a1-4727-bf54-db1ac74fb6ec)
+![image](https://github.com/pikakid98/decluttertube/assets/12392651/692bd7aa-15a1-4727-bf54-db1ac74fb6ec)
 
 - Scroll right to the bottom until you see "Import". Click where it says "> Import"
 \
-![image](https://github.com/Git-Pikakid98/decluttertube/assets/12392651/c73e0fa0-2ac1-4adc-9771-a04f0f817b48)
+![image](https://github.com/pikakid98/decluttertube/assets/12392651/c73e0fa0-2ac1-4adc-9771-a04f0f817b48)
 
 - Copy the "Raw Filters" section from > [This Website](https://git-pikakid98.github.io/other/decluttertube) < (Psst. Blue text means you can click it)
 - Then simply copy and paste them into the box. Please be aware that some filters are completely optional. Look below to see which filters you want
@@ -30,9 +30,9 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `CleanSideBar` Cleans pointless categories from the YouTube sidebar
 
-`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *1](https://github.com/Git-Pikakid98/decluttertube#1)
+`DONTHitTheBell` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *1](https://github.com/pikakid98/decluttertube#1)
 
-`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *2](https://github.com/Git-Pikakid98/decluttertube#2)
+`FeatureCreep` Removes all of the "Bell notifcation options" from the subscribe dropdown [[Known to cause issues] *2](https://github.com/pikakid98/decluttertube#2)
 
 `IJustWannaJam` Removes pointless fluff from YouTube Music
 
@@ -50,7 +50,7 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `GiveEmAShot` Removes "Live" tag, Verification ticks and view counts, like counts and sub counts to encorage people to check out smaller creators without YouTube's brainwashing "High view count = good content" mentality
 
-`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *3](https://github.com/Git-Pikakid98/decluttertube#3)
+`IDontNeedNoHelp` Removes the help and feedback options from YouTube and YouTube Studio [[Known to cause issues] *3](https://github.com/pikakid98/decluttertube#3)
 
 `NoDollarYT` Removes the join button and member badges (Doesn't affect live chat and chat replay due to how they work). Also removes fundraiser related content
 
@@ -66,9 +66,9 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `NoLogo` Removes the YouTube logo from the website. If for whatever reason you want that
 
-`DenerdPanel` Removes all debugging features from YouTube's right click menu [[Known to cause issues] *6](https://github.com/Git-Pikakid98/decluttertube#6)
+`DenerdPanel` Removes all debugging features from YouTube's right click menu [[Known to cause issues] *6](https://github.com/pikakid98/decluttertube#6)
 
-`NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant [[Known to cause issues] *6](https://github.com/Git-Pikakid98/decluttertube#6)
+`NoPanel` Removes the right click panel from the YouTube player. Loop controls now require an extra right click. Using this in conjunction with "DenerdPanel" is redundant [[Known to cause issues] *6](https://github.com/pikakid98/decluttertube#6)
 
 `NoCopyright` Removes the copyrighted music card from the description (No, This filter does NOT make you exempt from copyright infringement)
 
@@ -80,7 +80,7 @@ This is NOT a standalone program or extension. Downloading this alone will do NO
 
 `PlayThatOneAgainJohnny` Removes the progress bar from videos you've already watched
 
-`RadioYoureJokingRight` Removes the "Radio" or "Mix" recommended playlist [[Known to cause issues] *5](https://github.com/Git-Pikakid98/decluttertube#5)
+`RadioYoureJokingRight` Removes the "Radio" or "Mix" recommended playlist [[Known to cause issues] *5](https://github.com/pikakid98/decluttertube#5)
 
 `IDontNeed2ChapterSections` Removes the large chapter option at the bottom of the description. This does NOT remove it from the ACTUAL (Manually typed by the Youtuber) chapters or the chapters on the progress bar
 
